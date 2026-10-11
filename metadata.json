@@ -1,0 +1,6 @@
+{
+  "name": "Refugio Interior",
+  "description": "Tu espacio diario de sanación emocional, afirmaciones, rituales y diccionario de síntomas con diseño minimalista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
